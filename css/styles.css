@@ -18,3 +18,7 @@
 .panda-btn-buy-now:hover {
     color: #fff;
 }
+
+#subscribe h6 {
+    color: gray;
+}
